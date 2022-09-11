@@ -9,3 +9,5 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
  * What can we learn from predictions? (ex: locations, prices, reviews, etc)
  * Which hosts are the busiest and why?
  * Is there any noticeable difference of traffic among different areas and what could be the reason for it?</b>
+ 
+ 
